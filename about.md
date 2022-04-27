@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: default
 title: About us
 description: List of the team members
 order: 2
