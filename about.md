@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: about
 title: About Nailah
 description: 
 order: 2
