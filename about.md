@@ -1,11 +1,11 @@
 ---
 layout: default
-title: About us
-description: List of the team members
+title: About Nailah
+description: 
 order: 2
 ---
 
-# About Us
+# About Nailah
 
 {% include nav.html %}
 
