@@ -1,5 +1,6 @@
 ---
 title: Home
+title2: Nailah Reaves
 layout: default
 order: 1
 ---
