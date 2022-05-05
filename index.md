@@ -1,7 +1,7 @@
 ---
 title: Home
 title2: Nailah Reaves
-layout: default
+layout: default2
 order: 1
 ---
 ## Nailah Reaves
