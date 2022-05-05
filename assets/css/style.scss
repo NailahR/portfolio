@@ -17,7 +17,7 @@ a{
     color:black;
 }
 
-body{
+main {
    background-color:white;
    color: black;
 }
@@ -26,10 +26,9 @@ header {
     background-image:url("/portfolio/assets/img/back2-02.png");
     background-repeat:no-repeat;
     background-size:cover;
-    height: 300;
     text-align: center;
     }
 
-    header > a {
+    header{
         color:white;
     }
