@@ -7,6 +7,7 @@ nav ul{
     list-style: none;
     justify-content: center;
     padding-left:0;
+    margin-top: 100;
 }
 
 h1{
@@ -18,8 +19,8 @@ a{
 }
 
 body{
-   background-color:black;
-   color: white;
+   background-color:white;
+   color: black;
 }
 
 header {
@@ -28,4 +29,8 @@ header {
     background-size:cover;
     height:max-content;
     text-align: center;
+    }
+
+    header > a {
+        color:white;
     }
