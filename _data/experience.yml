@@ -15,7 +15,7 @@ story:
   tag-link: "http://google.com"
   tag: Let's go to Google again
 
-- image: "/portfolio/assets/img/streaming.webp"
+- image: "https://picsum.photos/200/200"
   image-alt: Placeholder image 3
   tilte: Third Story Title
   subtitle: Third Story subtitle
@@ -23,7 +23,15 @@ story:
   tag-link: "http://google.com"
   tag: Let's go to Google one more time
 
-  - image: "/portfolio/assets/img/socials.webp"
+- image: "https://picsum.photos/200/200"
+  image-alt: Placeholder image 3
+  tilte: Third Story Title
+  subtitle: Third Story subtitle
+  story-content: Third story content
+  tag-link: "http://google.com"
+  tag: Let's go to Google one more time
+
+- image: "https://picsum.photos/200/200"
   image-alt: Placeholder image 3
   tilte: Third Story Title
   subtitle: Third Story subtitle
