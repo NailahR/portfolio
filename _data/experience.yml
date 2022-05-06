@@ -1,5 +1,5 @@
 story:
-- image: "https://picsum.photos/200/200"
+- image: url("/portfolio/assets/img/back2-02.png");
   image-alt: Placeholder image 1
   tilte: First Story Title
   subtitle: First Story subtitle
