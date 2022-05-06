@@ -15,18 +15,10 @@ story:
   tag-link: "http://google.com"
   tag: Let's go to Google again
 
-- image: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-music-streaming-services-cosmo-1605889033.jpg"
+- image: "https://picsum.photos/200/200"
   image-alt: Placeholder image 3
   tilte: Third Story Title
   subtitle: Third Story subtitle
   story-content: Third story content
   tag-link: "http://google.com"
   tag: Let's go to Google one more time
-
-  - image: "/portfolio/assets/img/moneymarr.jpeg"
-  image-alt: Placeholder image 4
-  tilte: Fourth Story Title
-  subtitle: Fourth Story subtitle
-  story-content: Fourth story content
-  tag-link: "http://google.com"
-  tag: Let's go to Google one more time n
