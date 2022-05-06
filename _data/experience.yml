@@ -1,5 +1,5 @@
 story:
-- image: "/portfolio/assets/img/back2-02.png"
+- image: "/portfolio/assets/img/a&r.jpeg"
   image-alt: Placeholder image 1
   tilte: First Story Title
   subtitle: First Story subtitle
@@ -7,7 +7,7 @@ story:
   tag-link: "http://google.com"
   tag: Let's go to Google
 
-- image: "https://picsum.photos/200/200"
+- image: "/portfolio/assets/img/umiami.jpeg"
   image-alt: Placeholder image 2
   tilte: Second Story Title
   subtitle: Second Story subtitle
@@ -15,7 +15,15 @@ story:
   tag-link: "http://google.com"
   tag: Let's go to Google again
 
-- image: "https://picsum.photos/200/200"
+- image: "/portfolio/assets/img/streaming.webp"
+  image-alt: Placeholder image 3
+  tilte: Third Story Title
+  subtitle: Third Story subtitle
+  story-content: Third story content
+  tag-link: "http://google.com"
+  tag: Let's go to Google one more time
+
+  - image: "/portfolio/assets/img/moneymarr.jpeg"
   image-alt: Placeholder image 3
   tilte: Third Story Title
   subtitle: Third Story subtitle
