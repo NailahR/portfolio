@@ -15,7 +15,7 @@ story:
   tag-link: "http://google.com"
   tag: Let's go to Google again
 
-- image: "https://picsum.photos/200/200"
+- image: "/portfolio/assets/img/streaming.webp"
   image-alt: Placeholder image 3
   tilte: Third Story Title
   subtitle: Third Story subtitle
