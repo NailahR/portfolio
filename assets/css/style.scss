@@ -64,19 +64,21 @@ header {
         font-weight: 200;
     }
 
-    .card{
-        display:flex;
-        margin-bottom:1rem;
-        border-bottom: solid 1px #ccc;
+    .experience {
+        display: flex;
         margin-top: 1rem;
+        margin-bottom: 1rem;
+        border-bottom: solid 1px #ccc;
         padding-bottom: 1rem;
         align-items: center;
     }
     
-    .pic{
+    .pics{
         margin-right:1.5rem;
-       width: 200px;
-       height: 200px;
+    }
+    
+    .pic{
+        max-width: 177px;
     }
 
     footer{
