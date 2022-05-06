@@ -1,40 +1,33 @@
 story:
 - image: "/portfolio/assets/img/a&r.jpeg"
-  image-alt: Placeholder image 1
-  tilte: First Story Title
-  subtitle: First Story subtitle
-  story-content: First story content
-  tag-link: "http://google.com"
-  tag: Let's go to Google
-
+  image-alt: A&R photo
+  tilte: Independent A&R Consultant
+  subtitle: Researcher/Personal Consultant
+  story-content: Research consultant to a management company providing data/information linking artists, songwriters & producers for potential collaborations.
+ 
 - image: "/portfolio/assets/img/umgreen.jpeg"
-  image-alt: Placeholder image 2
-  tilte: Second Story Title
-  subtitle: Second Story subtitle
-  story-content: Second story content
-  tag-link: "http://google.com"
-  tag: Let's go to Google again
+  image-alt: University of Miami logo
+  tilte: University of Miami, International Student & Scholar Services 
+  subtitle: Graphic Designer/Office Assistant
+  story-content: Create graphics for flyers, emails for students, and social media posts. Create layouts and slideshow presentations. Design custom T-shirts/logos for orientation and events. Perform other office tasks as needed. 
+
 
 - image: "/portfolio/assets/img/spotify.png"
-  image-alt: Placeholder image 3
-  tilte: Third Story Title
-  subtitle: Third Story subtitle
-  story-content: Third story content
-  tag-link: "http://google.com"
-  tag: Let's go to Google one more time
+  image-alt: Spotify logo
+  tilte: Streaming Algorithmic Research
+  subtitle: Researcher/Data Analyst
+  story-content: Completed a detailed literature review regarding data collection and listening behavior on streaming services. Investigated data on various streaming platforms including Apple Music, Spotify, Google Play, Tidal, Soundcloud, Amazon Music, Deezer, and Shazam.
 
 - image: "/portfolio/assets/img/moneymarr.png"
-  image-alt: Placeholder image 3
-  tilte: Third Story Title
-  subtitle: Third Story subtitle
-  story-content: Third story content
-  tag-link: "http://google.com"
-  tag: Let's go to Google one more time
+  image-alt: Money Marr concert
+  tilte: Event Planning/Artist Booking
+  subtitle: Event Coordinator/Point Person
+  story-content: Exemplified drive and innovation as I proposed an unprecedented concept and coordinated a Back to School Concert with two other high schools in my city. Communicated with artist's management teams and successfully booked the performers, Xanman and MoneyMarr. Completed digital and social media marketing strategy to promote concerts across multiple platforms. Attention to detail regarding management of ticket sales and budget.
+
 
 - image: "/portfolio/assets/img/socials.webp"
-  image-alt: Placeholder image 3
-  tilte: Third Story Title
-  subtitle: Third Story subtitle
-  story-content: Third story content
-  tag-link: "http://google.com"
-  tag: Let's go to Google one more time
+  image-alt: social media picture
+  tilte: Social Media Management
+  subtitle: Account Manager/ Personal Consultant 
+  story-content: Assisted and facilitated building the personal Instagram account of my client from 0 to 9.4k in 6 months. In charge of the artistic direction/theme of the Instagram account. Assisted in developing a unique brand and individualized aesthetic for my client. Sought out and implemented various promotional platforms and techniques to advance engagement, leading to increase in followers.
+
