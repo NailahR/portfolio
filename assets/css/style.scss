@@ -50,3 +50,13 @@ header {
         font-family: 'Montserrat', sans-serif;
         font-weight: 200;
     }
+
+    .card{
+        display:flex;
+        margin-bottom:1rem;
+        border-bottom: solid 1px #ccc;
+    }
+    
+    .pic{
+        margin-right:1.5rem;
+    }
