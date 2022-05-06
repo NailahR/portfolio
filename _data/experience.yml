@@ -1,5 +1,5 @@
 story:
-- image: url("/portfolio/assets/img/back2-02.png");
+- image: "/portfolio/assets/img/back2-02.png"
   image-alt: Placeholder image 1
   tilte: First Story Title
   subtitle: First Story subtitle
