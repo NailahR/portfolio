@@ -11,7 +11,7 @@ nav ul{
 }
 
 h1{
-    color:brown;
+    color:black;
 }
 
 h2{
@@ -20,13 +20,13 @@ h2{
     font-weight: 300;
 }
 
-.title1 {
+h3 {
     color:black;
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
 }
 
-.title2 {
+h4 {
     color:black;
     font-family: 'Montserrat', sans-serif;
     font-weight: 200;
@@ -78,7 +78,8 @@ header {
     }
     
     .pic{
-        max-width: 177px;
+        width: 150px;
+        height: 150px;
     }
 
     footer{
